@@ -7,7 +7,7 @@
 
 - Name: Autonomous Value Stream
 - ID: ES:CONCEPT:autonomous-value-stream
-- Tranche: ES-020
+- Tranche: ES-009
 - Semantic Version: 0.8.0
 - Base Concept: ES:CONCEPT:value-stream
 - Status: Accepted
