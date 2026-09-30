@@ -1,15 +1,19 @@
+# Autonomous Value Stream
+
+> **Topic:** `concept` (Enterprise-Semantics per-concept repository, ES-ADR-049 + CR-ES-049)
+
 # concept-autonomous-value-stream
 
-> Autonomous Value Stream ;;; Authoritative concept repository, self-contained per ES-ADR-049 + CR-ES-049.
+> Autonomous Value Stream, Authoritative concept repository, self-contained per ES-ADR-049 + CR-ES-049.
 
 ## Quick Index
 
-- [None](None) ;;; Authoritative concept record
-- [kit/](kit/) ;;; Conformance test kit (manifest + 0 tests)
-- [docs/](docs/) ;;; 6 documentation files (definition, conformance, target-architectures, capability-maturity-model, assessment, measurement)
-- [mappings/](mappings/) ;;; 2 cross-program mappings
-- [examples/](examples/) ;;; 0 example instance(s)
-- [visuals/](visuals/) ;;; 2 illustration file(s)
+- [None](None), Authoritative concept record
+- [kit/](kit/), Conformance test kit (manifest + 0 tests)
+- [docs/](docs/), 6 documentation files (definition, conformance, target-architectures, capability-maturity-model, assessment, measurement)
+- [mappings/](mappings/), 2 cross-program mappings
+- [examples/](examples/), 0 example instance(s)
+- [visuals/](visuals/), 2 illustration file(s)
 
 ## Author
 
